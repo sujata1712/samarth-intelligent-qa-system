@@ -81,5 +81,3 @@ _Note: Rainfall and crop data here cover different states; the notebook analyzes
 - Ministry of Agriculture & Farmers Welfare, Government of India
 
 ---
-
-v
